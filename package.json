@@ -1,0 +1,19 @@
+{
+  "name": "exlogica",
+  "version": "1.0.0",
+  "description": "exercícios de lógica para computação em javascript",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilker345/exLogica.git"
+  },
+  "author": "Wilker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilker345/exLogica/issues"
+  },
+  "homepage": "https://github.com/Wilker345/exLogica#readme"
+}
