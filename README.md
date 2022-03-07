@@ -1,2 +1,2 @@
 # exLogica
-exercícios de lógica para computação em javascript
+exercícios de lógica simples para computação
